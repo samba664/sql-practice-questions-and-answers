@@ -28,4 +28,5 @@ Whether you are:
 ## 🚀 How to Use
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/sql-practice-questions-and-answers.git
+   https://github.com/samba664/sql-practice-questions-and-answers
+
